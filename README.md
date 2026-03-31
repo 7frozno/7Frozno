@@ -3,8 +3,8 @@
 <!-- BANNER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=160&section=header&text=GELON%20PEREZ%20ROJAS&fontSize=38&fontColor=FAF7F2&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20%26%20Reliability&descAlignY=68&descSize=16&descColor=9B9490" width="100%"/>
 
-<!-- ANIMATED ENGINEER SVG -->
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px"/>
+<!-- ANIMATED ENGINEER GIF — ingeniero mecánico trabajando -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140px"/>
 
 <!-- BADGES STATUS -->
 <p>
@@ -41,33 +41,32 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 - 📘 **Gestión de Mantenimiento** — CENTRUM PUCP · 2025
 - 🔩 **ASME PCC-2** — ECV Ingenieros SAC · 2024
 - ⚙️ **SAP PM** — Global Tecnologías Academy · 2024
-- 🚜 **Planner de Mantenimiento en Maquinaria Pesada** — EFPLA · 2023
+- 🚜 **Planner de Mantenimiento — Maquinaria Pesada** — EFPLA · 2023
 
 ---
 
 ## 🛠️ Stack Técnico
 
-### Gestión & Planificación
-![SAP PM](https://img.shields.io/badge/SAP%20PM-Avanzado-1A1A1A?style=flat-square&logo=sap&logoColor=white&labelColor=1A1A1A)
-![MS Project](https://img.shields.io/badge/MS%20Project-Intermedio-1A1A1A?style=flat-square&logo=microsoft&logoColor=white&labelColor=2563EB)
-![Power BI](https://img.shields.io/badge/Power%20BI-Intermedio-1A1A1A?style=flat-square&logo=powerbi&logoColor=white&labelColor=D97706)
+**Gestión** &nbsp;
+![SAP PM](https://img.shields.io/badge/SAP_PM-Avanzado-1A1A1A?style=flat-square&logo=sap&logoColor=white&labelColor=1A1A1A)
+![MS Project](https://img.shields.io/badge/MS_Project-Intermedio-1A1A1A?style=flat-square&logo=microsoft&logoColor=white&labelColor=2563EB)
+![Power BI](https://img.shields.io/badge/Power_BI-Intermedio-1A1A1A?style=flat-square&logo=powerbi&logoColor=white&labelColor=D97706)
 
-### Programación & Automatización
+**Código** &nbsp;
 ![Python](https://img.shields.io/badge/Python-Básico-1A1A1A?style=flat-square&logo=python&logoColor=white&labelColor=2563EB)
-![VBA](https://img.shields.io/badge/VBA%20%2F%20Macros-Intermedio-1A1A1A?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=16A34A)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Básico-1A1A1A?style=flat-square&logo=powerapps&logoColor=white&labelColor=7C3AED)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Básico-1A1A1A?style=flat-square&logo=powerautomate&logoColor=white&labelColor=2563EB)
-
-### Diseño & Análisis
+![VBA](https://img.shields.io/badge/VBA_Macros-Intermedio-1A1A1A?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=16A34A)
 ![Excel](https://img.shields.io/badge/Excel-Avanzado-1A1A1A?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=16A34A)
-![Inventor](https://img.shields.io/badge/Autodesk%20Inventor-Intermedio-1A1A1A?style=flat-square&logo=autodesk&logoColor=white&labelColor=EA580C)
+![Power Apps](https://img.shields.io/badge/Power_Apps-Básico-1A1A1A?style=flat-square&logo=powerapps&logoColor=white&labelColor=7C3AED)
+
+**Diseño** &nbsp;
+![Inventor](https://img.shields.io/badge/Inventor-Intermedio-1A1A1A?style=flat-square&logo=autodesk&logoColor=white&labelColor=EA580C)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Básico-1A1A1A?style=flat-square&logo=autodesk&logoColor=white&labelColor=DC2626)
 
-### Metodologías
-![RBI](https://img.shields.io/badge/RBI-Risk%20Based%20Inspection-1A1A1A?style=flat-square&labelColor=1A1A1A&color=2563EB)
-![IOW](https://img.shields.io/badge/IOW-Integrity%20Operating%20Windows-1A1A1A?style=flat-square&labelColor=1A1A1A&color=2563EB)
-![RCA](https://img.shields.io/badge/RCA-Root%20Cause%20Analysis-1A1A1A?style=flat-square&labelColor=1A1A1A&color=2563EB)
-![PMBOK](https://img.shields.io/badge/PMBOK-Gestión%20de%20Proyectos-1A1A1A?style=flat-square&labelColor=1A1A1A&color=16A34A)
+**Metodologías** &nbsp;
+![RBI](https://img.shields.io/badge/RBI-2563EB?style=flat-square)
+![IOW](https://img.shields.io/badge/IOW-2563EB?style=flat-square)
+![RCA](https://img.shields.io/badge/RCA-2563EB?style=flat-square)
+![PMBOK](https://img.shields.io/badge/PMBOK-16A34A?style=flat-square)
 
 ---
 
@@ -95,6 +94,21 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 | 03 | 🔩 Calculadora RBI — Risk Based Inspection | [▶ Ver demo](https://7frozno.github.io/Simuladores/calculadora-rbi/) | `JS` `HTML` |
 | 04 | ⚙️ Planificador de Paradas de Planta | [▶ Ver demo](https://7frozno.github.io/Simuladores/planificador-paradas/) | `JS` `Gantt` |
 | 05 | 🤖 Automatización SAP PM — Scripts VBA | [▶ Ver repo](https://github.com/7frozno/Simuladores/tree/main/sap-vba/) | `VBA` `SAP PM` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=7frozno&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7frozno&layout=compact&theme=default&title_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&langs_count=6" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=7frozno&theme=default&background=FAF7F2&border=1A1A1A&stroke=2563EB&ring=2563EB&fire=EA580C&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=2563EB&sideLabels=9B9490&dates=9B9490&border_radius=8" />
+</div>
 
 ---
 
