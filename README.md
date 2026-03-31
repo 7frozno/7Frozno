@@ -107,4 +107,4 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=100&section=footer&text=⚙️%20Engineering%20%7C%20Reliability%20%7C%20Automation&fontSize=14&fontColor=9B9490&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A1A1A&amp;height=100&amp;section=footer&amp;text=%E2%9A%99%EF%B8%8F%20Engineering%20%7C%20Reliability%20%7C%20Automation&amp;fontSize=14&amp;fontColor=9B9490&amp;fontAlignY=65" width="100%"/>
