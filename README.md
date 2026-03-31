@@ -88,21 +88,6 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=7frozno&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7frozno&layout=compact&theme=default&title_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&langs_count=6" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7frozno&theme=default&background=FAF7F2&border=1A1A1A&stroke=2563EB&ring=2563EB&fire=EA580C&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=2563EB&sideLabels=9B9490&dates=9B9490&border_radius=8" />
-</div>
-
----
-
 ## 🎓 Formación
 
 - 🏛️ **Ing. Mecánica** — Universidad Nacional de Ingeniería (UNI) · 2017–2022
