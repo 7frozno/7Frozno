@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=160&section=header&text=GELON%20PEREZ%20ROJAS&fontSize=38&fontColor=FAF7F2&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20%26%20Reliability&descAlignY=68&descSize=16&descColor=9B9490" width="100%"/>
+<img src="./assets/engineer.gif" width="140px"/>
 
 <!-- ANIMATED ENGINEER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140px"/>
