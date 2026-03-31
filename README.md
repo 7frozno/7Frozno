@@ -3,8 +3,8 @@
 <!-- BANNER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=160&section=header&text=GELON%20PEREZ%20ROJAS&fontSize=38&fontColor=FAF7F2&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20%26%20Reliability&descAlignY=68&descSize=16&descColor=9B9490" width="100%"/>
 
-<!-- ANIMATED ENGINEER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140px"/>
+<!-- ANIMATED ENGINEER GIF — URL verificada de Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140px"/>
 
 <!-- BADGES STATUS -->
 <p>
@@ -94,21 +94,6 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 | 03 | 🔩 Calculadora RBI — Risk Based Inspection | [▶ Ver demo](https://7frozno.github.io/Simuladores/calculadora-rbi/) | `JS` `HTML` |
 | 04 | ⚙️ Planificador de Paradas de Planta | [▶ Ver demo](https://7frozno.github.io/Simuladores/planificador-paradas/) | `JS` `Gantt` |
 | 05 | 🤖 Automatización SAP PM — Scripts VBA | [▶ Ver repo](https://github.com/7frozno/Simuladores/tree/main/sap-vba/) | `VBA` `SAP PM` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=7frozno&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7frozno&layout=compact&theme=default&title_color=2563EB&text_color=1A1A1A&bg_color=FAF7F2&border_color=1A1A1A&border_radius=8&langs_count=6" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7frozno&theme=default&background=FAF7F2&border=1A1A1A&stroke=2563EB&ring=2563EB&fire=EA580C&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=2563EB&sideLabels=9B9490&dates=9B9490&border_radius=8" />
-</div>
 
 ---
 
