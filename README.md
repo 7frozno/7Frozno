@@ -14,7 +14,7 @@
 nombre   : Gelon L. Perez Rojas
 rol      : Ingeniero Mecánico — Mantenimiento & Confiabilidad
 empresa  : Refinería La Pampilla – Repsol  |  Lima, Perú 🇵🇪
-stack    : SAP PM · Power BI · Python · VBA · MS Project
+stack    : python, js, html, css, git, autocad, figma
 enfoque  : Confiabilidad · Paradas de Planta · Automatización · IoT
 contacto : glperezr@uni.pe
 ```
