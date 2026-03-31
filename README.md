@@ -35,6 +35,16 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 
 ---
 
+## 🎓 Formación
+
+- 🏛️ **Ing. Mecánica** — Universidad Nacional de Ingeniería (UNI) · 2017–2022
+- 📘 **Gestión de Mantenimiento** — CENTRUM PUCP · 2025
+- 🔩 **ASME PCC-2** — ECV Ingenieros SAC · 2024
+- ⚙️ **SAP PM** — Global Tecnologías Academy · 2024
+- 🚜 **Planner de Mantenimiento en Maquinaria Pesada** — EFPLA · 2023
+
+---
+
 ## 🛠️ Stack Técnico
 
 ### Gestión & Planificación
@@ -85,16 +95,6 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 | 03 | 🔩 Calculadora RBI — Risk Based Inspection | [▶ Ver demo](https://7frozno.github.io/Simuladores/calculadora-rbi/) | `JS` `HTML` |
 | 04 | ⚙️ Planificador de Paradas de Planta | [▶ Ver demo](https://7frozno.github.io/Simuladores/planificador-paradas/) | `JS` `Gantt` |
 | 05 | 🤖 Automatización SAP PM — Scripts VBA | [▶ Ver repo](https://github.com/7frozno/Simuladores/tree/main/sap-vba/) | `VBA` `SAP PM` |
-
----
-
-## 🎓 Formación
-
-- 🏛️ **Ing. Mecánica** — Universidad Nacional de Ingeniería (UNI) · 2017–2022
-- 📘 **Gestión de Mantenimiento** — CENTRUM PUCP · 2025
-- 🔩 **ASME PCC-2** — ECV Ingenieros SAC · 2024
-- ⚙️ **SAP PM** — Global Tecnologías Academy · 2024
-- 🚜 **Planner de Mantenimiento en Maquinaria Pesada** — EFPLA · 2023
 
 ---
 
