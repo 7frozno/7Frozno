@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A1A1A&amp;height=160&amp;section=header&amp;text=GELON%20PEREZ%20ROJAS&amp;fontSize=38&amp;fontColor=FAF7F2&amp;fontAlignY=45&amp;desc=Mechanical%20Engineer%20%7C%20Maintenance%20%26%20Reliability&amp;descAlignY=68&amp;descSize=16&amp;descColor=9B9490" width="100%"/>
 
 <!-- ANIMATED ENGINEER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="140px"/>
 
 <!-- BADGES STATUS -->
 <p>
