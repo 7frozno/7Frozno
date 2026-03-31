@@ -3,6 +3,9 @@
 <!-- BANNER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=160&section=header&text=GELON%20PEREZ%20ROJAS&fontSize=38&fontColor=FAF7F2&fontAlignY=45&desc=Mechanical%20Engineer%20%7C%20Maintenance%20%26%20Reliability&descAlignY=68&descSize=16&descColor=9B9490" width="100%"/>
 
+<!-- ANIMATED ENGINEER SVG -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px"/>
+
 <!-- BADGES STATUS -->
 <p>
   <img src="https://img.shields.io/badge/Refinería%20La%20Pampilla-Repsol-1A1A1A?style=flat-square&labelColor=2563EB&color=1A1A1A" />
@@ -73,33 +76,15 @@ Bachiller en Ingeniería Mecánica (UNI) con experiencia en **gestión de manten
 
 ## 🚀 Proyectos Destacados
 
-> 🔧 *Repositorios en construcción — próximamente disponibles*
+> 🔗 Todos los simuladores → **[github.com/7frozno/Simuladores](https://github.com/7frozno/Simuladores)**
 
-### 📊 Analizador de Vibraciones — Bombas Centrífugas
-Dashboard interactivo para análisis de señales de vibración en equipos rotativos industriales. Simulación de fallas reales (desbalance, desalineamiento, cavitación, falla de rodamiento) con FFT, análisis temporal y modo quiz educativo.
-
-`Chart.js` `JavaScript` `Signal Processing` `FFT` `Mantenimiento Predictivo`
-
----
-
-### 🤖 Automatización SAP PM con VBA
-Scripts desarrollados en Repsol para automatización de reportes en SAP PM, reduciendo tiempos de procesamiento de datos de mantenimiento. Integración de módulos PM con hojas Excel avanzadas.
-
-`VBA` `SAP PM` `Excel` `Automatización`
-
----
-
-### 📈 Dashboard KPIs de Mantenimiento
-Dashboard en Power BI para seguimiento de indicadores clave: disponibilidad, MTBF, MTTR, backlog, cumplimiento de PM. Orientado a toma de decisiones en planta industrial.
-
-`Power BI` `KPIs` `Mantenimiento` `Análisis de datos`
-
----
-
-### 🔩 Diseño Mecánico — Cámara de Ionización CIC (IPEN)
-Primer diseño detallado para fabricación de cámara de ionización compensada. Diseño de componentes (rodamientos, sellos de seguridad, caja) aplicando criterios de tolerancias y seguridad operativa.
-
-`Inventor` `AutoCAD` `Diseño Mecánico` `Documentación Técnica`
+| # | Proyecto | Demo | Stack |
+|---|----------|------|-------|
+| 01 | 📊 Analizador de Vibraciones — Bombas Centrífugas | [▶ Ver demo](https://7frozno.github.io/Simuladores/vibration-analyzer/) | `JS` `Chart.js` `FFT` |
+| 02 | 📈 Dashboard KPIs de Mantenimiento | [▶ Ver demo](https://7frozno.github.io/Simuladores/dashboard-kpis/) | `JS` `HTML` `CSS` |
+| 03 | 🔩 Calculadora RBI — Risk Based Inspection | [▶ Ver demo](https://7frozno.github.io/Simuladores/calculadora-rbi/) | `JS` `HTML` |
+| 04 | ⚙️ Planificador de Paradas de Planta | [▶ Ver demo](https://7frozno.github.io/Simuladores/planificador-paradas/) | `JS` `Gantt` |
+| 05 | 🤖 Automatización SAP PM — Scripts VBA | [▶ Ver repo](https://github.com/7frozno/Simuladores/tree/main/sap-vba/) | `VBA` `SAP PM` |
 
 ---
 
@@ -138,10 +123,4 @@ Primer diseño detallado para fabricación de cámara de ionización compensada.
 
 </div>
 
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=100&section=footer&text=⚙️%20Engineering%20%7C%20Reliability%20%7C%20Automation&fontSize=14&fontColor=9B9490&fontAlignY=65" width="100%"/>
-
-</div>
